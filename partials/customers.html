@@ -7,7 +7,7 @@
 				<button class="add" ng-click="addCustomer()">Add</button>
 			</p>
 
-			<input id="search" type="text" ng-model="filter_name" placeholder="Search"> <!-- {{ filter_name }} -->
+			<input class="search" type="text" ng-model="filter_name" placeholder="Search"><span class="gray" ng-bind="filter_name"></span>
 
 			<table>
 				<thead>
