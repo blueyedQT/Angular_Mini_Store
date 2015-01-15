@@ -1,0 +1,33 @@
+p.red {
+	color: red;
+}
+.search {
+	margin-left: 200px;
+}
+.gray {
+	color: gray;
+	margin-left: 5px;
+}
+button {
+	border: 1px solid black;
+	border-radius: 5px;
+	color: white;
+	background-color: red;
+}
+.add {
+	background-color: blue;
+}
+table {
+	border: 1px solid black;
+	margin: 10px;
+	padding: 0;
+}
+th {
+	background-color: lightgray;
+}
+td {
+	padding: 2px 10px 2px 10px;
+}
+.border-left {
+	border-left: 1px solid black;
+}
